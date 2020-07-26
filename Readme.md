@@ -1,4 +1,4 @@
-Docker muss installiert sein und bereits laufen.
+Docker muss installiert sein und bereits laufen. (Link zum Hub: https://hub.docker.com/r/hantadev/giphysearch )
 
 Über folgenden Befehl wird das Docker Image geholt: docker pull hantadev/giphysearch:ersterVersuch
 
